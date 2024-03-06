@@ -2,7 +2,7 @@
   "name": "mi-proyecto",
   "version": "1.0.0",
   "scripts": {
-    "start": "npm-run-all --parallel start-backend start-blog",
+    "start": "npm-run-all --parallel start-blog start-backend",
     "start-backend": "cd ./Back && nest start",
     "start-blog": "cd ./blog && npm run dev",
     "install-deps": "npm install && cd ./back && npm install && cd ../blog && npm install"
