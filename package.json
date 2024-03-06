@@ -4,7 +4,8 @@
   "scripts": {
     "start": "npm-run-all --parallel start-backend start-blog",
     "start-backend": "cd ./Back && nest start",
-    "start-blog": "cd ./blog && npm run dev"
+    "start-blog": "cd ./blog && npm run dev",
+    "install-deps": "npm install && cd ./back && npm install && cd ../blog && npm install"
   },
   "dependencies": {
     "npm": "^10.5.0"
