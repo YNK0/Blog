@@ -4,7 +4,7 @@ Una aplicación de blog simple desarrollada con React.
 
 ## Descripción
 
-Esta aplicación de blog te permite ver las últimas publicaciones, agregar nuevas publicaciones, buscar publicaciones por título, contenido o autor, editar publicaciones existentes y eliminar publicaciones. Está desarrollada con React y utiliza una API RESTful para el manejo de datos.
+Esta aplicación de blog te permite ver las últimas publicaciones, agregar nuevas publicaciones, buscar publicaciones por título, contenido o autor, editar publicaciones existentes y eliminar publicaciones. Está desarrollada con React y utiliza una API RESTful para el manejo de datos junto con una base de datos SQL Server que conecta de manera automatica de la nube.
 
 ## Características
 
