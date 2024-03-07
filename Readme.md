@@ -22,19 +22,25 @@ Esta aplicación de blog te permite ver las últimas publicaciones, agregar nuev
    git clone https://github.com/YNK0/Blog.git
    ```
 
-2. Instala las dependencias con `npm install`.
+2. Navega a la carpeta del proyecto.
+
+   ```sh
+   cd Blog
+   ```
+
+3. Instala las dependencias con `npm install`.
 
    ```sh
    npm install
    ```
 
-3. Inicia la aplicación con `npm run init`.
+4. Inicia la aplicación con `npm run init`.
 
    ```sh
    npm run init
    ```
 
-4. Abre tu navegador web y visita http://localhost:3000 para ver la aplicación.
+5. Abre tu navegador web y visita http://localhost:3000 para ver la aplicación.
 
 ## Uso
 
