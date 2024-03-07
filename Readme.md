@@ -1,4 +1,4 @@
-### Blog App
+# Blog App
 
 Una aplicación de blog simple desarrollada con React.
 
